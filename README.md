@@ -1,7 +1,7 @@
 # Install
 
 ```
-npm install -g xcasset-clean
+npm install -g https://github.com/stephenwzl/xcasset-clean.git 
 ```
 
 # Usage
